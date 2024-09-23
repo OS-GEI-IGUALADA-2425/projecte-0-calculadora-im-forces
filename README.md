@@ -3,7 +3,7 @@
 # projecte0
 
 Grupo:
-Marco Beruet Morelli
+Marco Beruet Morelli,
 Ivan Gil Cañizares
 
 ![image](https://github.com/user-attachments/assets/39f4db74-a2ce-4870-bf42-6726d7016107)
